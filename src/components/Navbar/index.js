@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import wemaLogo from "../../../public/icons/wema-icon.svg";
-import gitexLogo from "../../../public/icons/Gitex-GLOBAL.svg";
+import gitexLogo from "../../../public/icons/GITEX-GLOBAL.svg";
 import cancel from "../../../public/icons/cancelX.svg";
 import { useState } from "react";
 import Harmburger from "../Harmburger";

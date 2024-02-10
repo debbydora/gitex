@@ -1,6 +1,6 @@
 import Link from "next/link";
 import wemaLogo from "../../../public/icons/wema-icon.svg";
-import gitexLogo from "../../../public/icons/Gitex-GLOBAL.svg";
+import gitexLogo from "../../../public/icons/GITEX-GLOBAL.svg";
 import fb from "../../../public/icons/facebook.svg"
 import x from "../../../public/icons/X.svg";
 import insta from "../../../public/icons/instagram.svg";
