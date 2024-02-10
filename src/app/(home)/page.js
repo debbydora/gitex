@@ -137,7 +137,7 @@ export default function Home() {
                       Gain unparalleled exposure for your startup on aglobal
                       scale. Showcase your product or service to a diverse
                       audience of investors, media, and industry influencers,
-                      amplifying your brand's visibility and reach.
+                      amplifying your brand&apos;s visibility and reach.
                     </p>
                   </div>
                 </div>
@@ -153,7 +153,7 @@ export default function Home() {
                     </h1>
                     <p className="lg:w-[350px] md:text-[22px]">
                       Benefit from exclusive workshops, mentorship sessions, and
-                      resources designed to support your startup's growth
+                      resources designed to support your startup&apos;s growth
                       journey. Tap into the knowledge and expertise of seasoned
                       professionals to overcome challenges and accelerate your
                       success.
@@ -169,8 +169,8 @@ export default function Home() {
             </h1>
             <div className="text-[24px] leading-[40px] flex justify-center mt-5">
               <p className="xl:w-[36%} lg:w-[60%] md:w-[90%] text-center md:mt-2">
-                Don't miss this exciting opportunity to propel your startup to
-                new heights.
+                Don&apos;t miss this exciting opportunity to propel your startup
+                to new heights.
               </p>
             </div>
             <div className="lg:mt-20 mt-14 flex lg:flex-row gap-y-8  items-center flex-col lg:justify-center gap-x-8 text-[#000]">

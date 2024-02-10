@@ -17,19 +17,19 @@ const Aboutpage = () => {
               With technology now the main driver of Nigerian banking, a large
               percentage of people, both young and old, are embracing
               institutions that have intelligently harnessed its power.
-              Nigeria’s leading innovative and digital financial institution,
-              Wema Bank, has become a main attraction for these categories of
-              Nigerians due to its provision of accessible, seamless, timely and
-              flexible digital services.Resolved to become Nigeria’s financial
-              institution of choice, Wema Bank has built several digital
-              products and offerings like ALAT, ALAT for Business, Sara, Gender
-              Loan Offering, Hackaholics, SME solutions and lots more. ALAT by
-              Wema, for instance, is Nigeria’s first digital bank that blazed
-              the trail for others in the sector.Its Hackaholics, an initiative
-              for tech startups is also a trailblazer by organizing trainings
-              for businesses to solve societal challenges. The Bank has given
-              out over $300,000 in grants to over 300,000 participants across
-              different countries in Africa.{" "}
+              Nigeria&apos;s leading innovative and digital financial
+              institution, Wema Bank, has become a main attraction for these
+              categories of Nigerians due to its provision of accessible,
+              seamless, timely and flexible digital services.Resolved to become
+              Nigeria&apos;s financial institution of choice, Wema Bank has
+              built several digital products and offerings like ALAT, ALAT for
+              Business, Sara, Gender Loan Offering, Hackaholics, SME solutions
+              and lots more. ALAT by Wema, for instance, is Nigeria&apos;s first
+              digital bank that blazed the trail for others in the sector.Its
+              Hackaholics, an initiative for tech startups is also a trailblazer
+              by organizing trainings for businesses to solve societal
+              challenges. The Bank has given out over $300,000 in grants to over
+              300,000 participants across different countries in Africa.{" "}
               <a
                 href="https://www.hackaholics.wemabank.com"
                 target="_blank"
