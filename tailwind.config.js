@@ -15,8 +15,8 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
-        burgerBg: "url('../../public/burgerBg.svg')",
-        heroBg: "url('../../public/hero.svg')",
+        burgerBg: "url('../../public/image/burgerBg.png')",
+        heroBg: "url('../../public/image/hero.png')",
         "harmburger-gradient":
           "linear-gradient(0deg, rgba(7, 2, 29, 0.50) 0%, rgba(7, 2, 29, 0.50) 100%), linear-gradient(58deg, rgba(10, 3, 35, 0.90) 19.88%, rgba(16, 0, 82, 0.90) 91.89%)",
         "hero-gradient":
