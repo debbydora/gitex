@@ -17,7 +17,7 @@ export default function Home() {
       <main className="font-satoshi flex flex-col relative">
         <section
           aria-label="hero"
-          className="relative bg-heroBg bg-contain md:min-h-[800px] min-h-[660px]"
+          className="relative bg-heroBg bg-no-repeat bg-cover md:min-h-[800px] min-h-[660px]"
         >
           <div className="absolute inset-0 bg-hero-gradient"></div>
           <div className="flex flex-col justify-center items-center h-full text-white relative z-10">
@@ -53,19 +53,19 @@ export default function Home() {
             </p>
           </div>
           <div className="flex justify-between gap-10 md:gap-8 lg:gap-0 items-start mt-20 w-full">
-            <div className="w-1/3">
+            <div className="w-1/3 object-contain">
               <Image
                 src={leftimg}
                 alt="people"
-                className="w-[41px]  md:w-[90px] lg:w-[121px]"
+                className="w-[41px]  md:w-[90px] lg:w-[121px] "
                 priority
               />
             </div>
-            <div className="w-2/3">
+            <div className="w-2/3  object-contain">
               <Image src={middleimg} alt="people" className="w-full" />
             </div>
-            <div className="w-1/3 flex justify-end relative">
-              <div className="flex absolute -bottom-10 -left-6 md:-bottom-20 md:-left-2  xl:lg:-bottom-52  lg:-bottom-24 lg:!left-12 ">
+            <div className="w-1/3 flex justify-end relative object-contain">
+              <div className="flex absolute -bottom-10 -left-6 md:-bottom-20 md:-left-2  xl:lg:-bottom-52  lg:-bottom-24 lg:!left-12 object-contain ">
                 <Image
                   src={tinyimg}
                   alt="people"

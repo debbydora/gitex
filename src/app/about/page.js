@@ -4,7 +4,7 @@ import Link from "next/link";
 const Aboutpage = () => {
   return (
     <>
-      <main className="relative bg-burgerBg  bg-contain min-h-screen w-full p-10">
+      <main className="relative bg-burgerBg object-contain min-h-screen w-full p-10">
         <div className="absolute inset-0 z-0 bg-harmburger-gradient"></div>
         <div className="relative z-10 flex flex-col">
           <Navbar />

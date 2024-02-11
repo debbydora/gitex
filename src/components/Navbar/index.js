@@ -49,7 +49,7 @@ const Navbar = () => {
             isOpen ? "translate-x-0" : "translate-x-[-100vw]"
           } flex flex-col gap-y-4 absolute z-50 top-0 left-0 right-0 w-full  transition duration-[600ms]  lg:hidden `}
         >
-          <div className="relative bg-burgerBg bg-contain h-screen w-full p-10">
+          <div className="relative bg-burgerBg object-contain h-screen w-full p-10">
             <div className="absolute inset-0 z-0 bg-harmburger-gradient"></div>
             <div className="relative z-10 flex flex-col gap-y-24">
               <div className="flex justify-end items-end">
