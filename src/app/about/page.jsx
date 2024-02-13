@@ -1,5 +1,4 @@
 import Navbar from "@/components/Navbar";
-import Link from "next/link";
 
 const Aboutpage = () => {
   return (
